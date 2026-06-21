@@ -1,2 +1,14 @@
 # mweb-worldcup-journal
-HTML page archive and documentation
+
+GitHub Pages 文件记录
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 发布文件
+
+- 新页面会作为 HTML 文件追加
+- 已有文件以仓库提交记录为准
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
